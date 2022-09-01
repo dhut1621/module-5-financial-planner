@@ -31,6 +31,15 @@ EXAMPLES
 Simulation line plot of 30 years 
 
 
+Contributers
+--
+David Hutsell
+
+Licenses
+--
+UW fintech bootcamp
+
+
 ![image](https://user-images.githubusercontent.com/107014664/187589688-8051671b-7ab8-4ec7-85b5-2eec27e8a634.png)
 
 Pie chart that shows total holding of cyrpto and stocks/bonds holdings
